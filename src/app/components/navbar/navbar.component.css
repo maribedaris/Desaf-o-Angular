@@ -1,0 +1,12 @@
+.logo{
+    width: 5%;
+    height: 5%;
+}
+
+.navbar{
+    background: linear-gradient(to bottom, rgb(226, 98, 24), rgb(128, 178, 190));
+}
+
+.card{
+    margin: auto auto;
+}
